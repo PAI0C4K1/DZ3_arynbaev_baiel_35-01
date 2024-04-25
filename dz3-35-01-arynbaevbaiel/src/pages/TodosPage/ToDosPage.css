@@ -1,0 +1,11 @@
+.div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #884c4c;
+}
+.grandLine, .sticks {
+    background-color: #000000;
+    width: 100vw;
+    height: 50px;
+}
